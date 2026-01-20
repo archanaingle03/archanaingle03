@@ -41,7 +41,7 @@ I am a motivated and detail-oriented Web and Software Developer with hands-on ex
 
 ## 💼 Internships
 
-### 🔹 Java Intern – Kiran Academy (Mar 2024 – Aug 2024)
+### 🔹 Java Intern – Kiran Academy (Mar 2025 – Aug 2025)
 - Completed a 6-month internship focused on Core Java fundamentals
 - Gained hands-on experience with OOPs, exception handling, and Java logic building
 - Worked on Java-based problem-solving and mini applications
